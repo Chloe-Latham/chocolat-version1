@@ -1,0 +1,14 @@
+.navBar{
+  background-color: #c99866;
+  padding: 8px;
+}
+
+a {
+  color: #ffffff;
+  background-color: #000000;
+  padding: 19px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial;
+
+}
